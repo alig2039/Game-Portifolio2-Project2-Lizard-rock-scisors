@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* css document */
+/* CSS Document */
 
 * {
 	margin: 0;
@@ -38,7 +38,7 @@
 	width: 50px;
 	padding: 30px;
 	text-align: center;
-	background-image: url("../Images/Rock.png");
+	background-image: url("../images/Rock.png");
 	background-position: center;
 	background-size: cover;
 	border: none;
@@ -62,7 +62,7 @@
 	width: 50px;
 	padding: 30px;
 	text-align: center;
-	background-image: url("../Images/Papper.png");
+	background-image: url("../images/Papper.png");
 	background-position: center;
 	background-size: cover;
 	border: none;
@@ -86,7 +86,7 @@
 	width: 50px;
 	padding: 30px;
 	text-align: center;
-	background-image: url("../Images/Scissors.png");
+	background-image: url("../images/Scissors.png");
 	background-position: center;
 	background-size: cover;
 	border: none;
@@ -110,7 +110,7 @@
 	width: 50px;
 	padding: 30px;
 	text-align: center;
-	background-image: url("../Images/Spock.png");
+	background-image: url("../images/Spock.png");
 	background-position: center;
 	background-size: cover;
 	border: none;
@@ -134,7 +134,7 @@
 	width: 50px;
 	padding: 30px;
 	text-align: center;
-	background-image: url("../Images/Lizard.png");
+	background-image: url("../images/Lizard.png");
 	background-position: center;
 	background-size: cover;
 	border: none;
