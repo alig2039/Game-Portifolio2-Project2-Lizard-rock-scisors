@@ -1,10 +1,10 @@
 const comChoce = document.getElementById('comchoice')
 const userChoce = document.getElementById('userchoice')
 const result = document.getElementById('result')
-const comScore = document.getElementById(comscore)
 let userChoice
 let computerChoice
 let Result
+
 
 const possibleChoices = document.querySelectorAll('button')
 possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click', (e) => {
@@ -124,7 +124,7 @@ function getResult() {
 	}
 	
 	if (computerChoice === 'Lizard' && userChoice === 'Spock') {
-		Result = 'You List'
+		Result = 'You Lost'
 	}
 	
 	
